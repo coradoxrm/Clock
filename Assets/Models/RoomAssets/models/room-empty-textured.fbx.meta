@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 415fb4b3e7310cb419db96ee3fcef30b
+timeCreated: 1505086254
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bed
+    100002: doorFrame
+    100004: floor
+    100006: floor1
+    100008: matress
+    100010: pCube7
+    100012: pCylinder1
+    100014: //RootNode
+    100016: secretDoor
+    100018: wall
+    100020: window1
+    100022: window2
+    100024: windowFrame
+    100026: windowglass1
+    100028: windowglass2
+    400000: bed
+    400002: doorFrame
+    400004: floor
+    400006: floor1
+    400008: matress
+    400010: pCube7
+    400012: pCylinder1
+    400014: //RootNode
+    400016: secretDoor
+    400018: wall
+    400020: window1
+    400022: window2
+    400024: windowFrame
+    400026: windowglass1
+    400028: windowglass2
+    2300000: bed
+    2300002: doorFrame
+    2300004: floor
+    2300006: floor1
+    2300008: matress
+    2300010: pCube7
+    2300012: pCylinder1
+    2300014: secretDoor
+    2300016: wall
+    2300018: window1
+    2300020: window2
+    2300022: windowFrame
+    2300024: windowglass1
+    2300026: windowglass2
+    3300000: bed
+    3300002: doorFrame
+    3300004: floor
+    3300006: floor1
+    3300008: matress
+    3300010: pCube7
+    3300012: pCylinder1
+    3300014: secretDoor
+    3300016: wall
+    3300018: window1
+    3300020: window2
+    3300022: windowFrame
+    3300024: windowglass1
+    3300026: windowglass2
+    4300000: floor
+    4300002: wall
+    4300004: bed
+    4300006: matress
+    4300008: windowFrame
+    4300010: window1
+    4300012: windowglass1
+    4300014: window2
+    4300016: windowglass2
+    4300018: doorFrame
+    4300020: pCylinder1
+    4300022: floor1
+    4300024: secretDoor
+    4300026: pCube7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

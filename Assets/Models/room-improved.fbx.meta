@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 8d3bbdcb967c26042b7e1ecbdff0b2ac
+timeCreated: 1505070951
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bag
+    100002: bed
+    100004: closet
+    100006: closetDoor1
+    100008: closetDoor2
+    100010: doorFrame
+    100012: drawer
+    100014: drawerChest1
+    100016: drawerChest2
+    100018: file1
+    100020: file2
+    100022: fileBox
+    100024: floor
+    100026: hourHand
+    100028: ImportantFile
+    100030: matress
+    100032: MinuteHand
+    100034: pCube1
+    100036: pCube2
+    100038: pCube3
+    100040: pCube4
+    100042: pCube5
+    100044: pCube7
+    100046: pillow
+    100048: //RootNode
+    100050: secretDoor
+    100052: TimeClock
+    100054: wall
+    100056: window2
+    100058: window3
+    100060: windowFrame
+    400000: bag
+    400002: bed
+    400004: closet
+    400006: closetDoor1
+    400008: closetDoor2
+    400010: doorFrame
+    400012: drawer
+    400014: drawerChest1
+    400016: drawerChest2
+    400018: file1
+    400020: file2
+    400022: fileBox
+    400024: floor
+    400026: hourHand
+    400028: ImportantFile
+    400030: matress
+    400032: MinuteHand
+    400034: pCube1
+    400036: pCube2
+    400038: pCube3
+    400040: pCube4
+    400042: pCube5
+    400044: pCube7
+    400046: pillow
+    400048: //RootNode
+    400050: secretDoor
+    400052: TimeClock
+    400054: wall
+    400056: window2
+    400058: window3
+    400060: windowFrame
+    2300000: bag
+    2300002: bed
+    2300004: closet
+    2300006: closetDoor1
+    2300008: closetDoor2
+    2300010: doorFrame
+    2300012: drawer
+    2300014: drawerChest1
+    2300016: drawerChest2
+    2300018: file1
+    2300020: file2
+    2300022: fileBox
+    2300024: floor
+    2300026: hourHand
+    2300028: ImportantFile
+    2300030: matress
+    2300032: MinuteHand
+    2300034: pCube1
+    2300036: pCube2
+    2300038: pCube3
+    2300040: pCube4
+    2300042: pCube5
+    2300044: pCube7
+    2300046: pillow
+    2300048: secretDoor
+    2300050: TimeClock
+    2300052: wall
+    2300054: window2
+    2300056: window3
+    2300058: windowFrame
+    3300000: bag
+    3300002: bed
+    3300004: closet
+    3300006: closetDoor1
+    3300008: closetDoor2
+    3300010: doorFrame
+    3300012: drawer
+    3300014: drawerChest1
+    3300016: drawerChest2
+    3300018: file1
+    3300020: file2
+    3300022: fileBox
+    3300024: floor
+    3300026: hourHand
+    3300028: ImportantFile
+    3300030: matress
+    3300032: MinuteHand
+    3300034: pCube1
+    3300036: pCube2
+    3300038: pCube3
+    3300040: pCube4
+    3300042: pCube5
+    3300044: pCube7
+    3300046: pillow
+    3300048: secretDoor
+    3300050: TimeClock
+    3300052: wall
+    3300054: window2
+    3300056: window3
+    3300058: windowFrame
+    4300000: floor
+    4300002: wall
+    4300004: bed
+    4300006: matress
+    4300008: closet
+    4300010: closetDoor1
+    4300012: closetDoor2
+    4300014: pCube4
+    4300016: pCube2
+    4300018: pCube1
+    4300020: pCube3
+    4300022: pCube5
+    4300024: windowFrame
+    4300026: window2
+    4300028: window3
+    4300030: doorFrame
+    4300032: pillow
+    4300034: TimeClock
+    4300036: drawer
+    4300038: drawerChest1
+    4300040: drawerChest2
+    4300042: fileBox
+    4300044: file1
+    4300046: file2
+    4300048: bag
+    4300050: ImportantFile
+    4300052: secretDoor
+    4300054: pCube7
+    4300056: MinuteHand
+    4300058: hourHand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

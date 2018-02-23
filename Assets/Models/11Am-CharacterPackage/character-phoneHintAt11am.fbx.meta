@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 572d9fbecfd5b0c458a929b37105c42c
+timeCreated: 1505407891
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: armL
+    100002: armR
+    100004: bagband1
+    100006: body1
+    100008: //RootNode
+    100010: chest
+    100012: chesttoNeck
+    100014: fingerend
+    100016: footL1
+    100018: footL2
+    100020: footR1
+    100022: footR2
+    100024: hair3
+    100026: handBag3
+    100028: handL
+    100030: handR
+    100032: head1
+    100034: hip2
+    100036: joint11
+    100038: joint11 1
+    100040: joint17
+    100042: joint17 1
+    100044: joint6
+    100046: Lfinger1
+    100048: Lfinger2
+    100050: Lfinger3
+    100052: lowerArmL
+    100054: lowerArmR
+    100056: lowerLegL
+    100058: lowerRegR
+    100060: LthumbL1
+    100062: LthumbL2
+    100064: neck
+    100066: Rfinger1
+    100068: Rfinger2
+    100070: Rfinger3
+    100072: Rfingerend
+    100074: thumbR1
+    100076: thumbR2
+    100078: upLegL
+    100080: upRegR
+    100082: waist
+    400000: armL
+    400002: armR
+    400004: bagband1
+    400006: body1
+    400008: //RootNode
+    400010: chest
+    400012: chesttoNeck
+    400014: fingerend
+    400016: footL1
+    400018: footL2
+    400020: footR1
+    400022: footR2
+    400024: hair3
+    400026: handBag3
+    400028: handL
+    400030: handR
+    400032: head1
+    400034: hip2
+    400036: joint11
+    400038: joint11 1
+    400040: joint17
+    400042: joint17 1
+    400044: joint6
+    400046: Lfinger1
+    400048: Lfinger2
+    400050: Lfinger3
+    400052: lowerArmL
+    400054: lowerArmR
+    400056: lowerLegL
+    400058: lowerRegR
+    400060: LthumbL1
+    400062: LthumbL2
+    400064: neck
+    400066: Rfinger1
+    400068: Rfinger2
+    400070: Rfinger3
+    400072: Rfingerend
+    400074: thumbR1
+    400076: thumbR2
+    400078: upLegL
+    400080: upRegR
+    400082: waist
+    2300000: bagband1
+    2300002: handBag3
+    3300000: bagband1
+    3300002: handBag3
+    4300000: hair3
+    4300002: body1
+    4300004: handBag3
+    4300006: bagband1
+    9500000: //RootNode
+    13700000: body1
+    13700002: hair3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
